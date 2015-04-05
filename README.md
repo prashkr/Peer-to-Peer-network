@@ -1,2 +1,2 @@
 # Peer-to-Peer-network
-#p2p network using socket programming in python
+A simple p2p network using socket programming in python
